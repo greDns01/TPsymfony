@@ -1,0 +1,12 @@
+acme_blog_homepage:
+    path:     /
+    defaults: { _controller: AcmeBlogBundle:Default:index }
+
+acme_blog_connexion:
+    path:    /connexion
+    defaults: { _controller: AcmeBlogBundle:Default:connexion }
+
+acme_blog_inscription:
+    path:    /inscription
+    defaults: { _controller: AcmeBlogBundle:Default:inscription }
+

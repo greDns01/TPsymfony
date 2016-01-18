@@ -42,7 +42,11 @@ class User
      */
     private $email;
 
-
+    /* rajout d'un constructeur */
+/*    public function __construct()
+    {
+    }
+*/
     /**
      * Get id
      *
